@@ -6,9 +6,6 @@ This Menu Base is designed for version 1.32 of Minecraft.
 Make sure to provide credit to its creators if you use the code in a project.
 
 # Credits
-1. SkullMods (Creator)
-2. MayhemModding (Creator)
-
 1. SkullMods (Finding Addresses & Mod Menu)
 2. MayhemModding (Finding Addresses & Button Monitoring & Mod Menu)
 3. Eddie-Lucas (Finding Addresses In 1.22+)
