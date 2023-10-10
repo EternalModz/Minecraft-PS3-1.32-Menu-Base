@@ -1,0 +1,9 @@
+C:\Users\Owner\Desktop\Personal Projects\Minecraft Menu Base\Minecraft Menu Base\bin\Debug\Minecraft Menu Base.exe.config
+C:\Users\Owner\Desktop\Personal Projects\Minecraft Menu Base\Minecraft Menu Base\obj\Debug\Minecraft Menu Base.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Personal Projects\Minecraft Menu Base\Minecraft Menu Base\obj\Debug\Minecraft_Menu_Base.Form1.resources
+C:\Users\Owner\Desktop\Personal Projects\Minecraft Menu Base\Minecraft Menu Base\obj\Debug\Minecraft_Menu_Base.Properties.Resources.resources
+C:\Users\Owner\Desktop\Personal Projects\Minecraft Menu Base\Minecraft Menu Base\obj\Debug\Minecraft Menu Base.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\Personal Projects\Minecraft Menu Base\Minecraft Menu Base\bin\Debug\Minecraft Menu Base.exe
+C:\Users\Owner\Desktop\Personal Projects\Minecraft Menu Base\Minecraft Menu Base\bin\Debug\Minecraft Menu Base.pdb
+C:\Users\Owner\Desktop\Personal Projects\Minecraft Menu Base\Minecraft Menu Base\obj\Debug\Minecraft Menu Base.exe
+C:\Users\Owner\Desktop\Personal Projects\Minecraft Menu Base\Minecraft Menu Base\obj\Debug\Minecraft Menu Base.pdb
